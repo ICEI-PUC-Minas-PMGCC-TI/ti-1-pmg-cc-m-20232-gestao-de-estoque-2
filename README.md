@@ -14,8 +14,10 @@ O objetivo do projeto é facilitar o controle de estoque de bares e restaurante,
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Rommel Vieira Carneiro
+* Ilo Amy Saldanha Rivero
+* João Carlos Oliveira Caetano
+* Carlos Augusto Paiva da Silva Martins
 
 ## Instruções de utilização
 
