@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11926315&assignment_repo_type=AssignmentRepo)
-# Nome do projeto
+# Gestão de estoque de bares e restaurantes
 
-Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
+O objetivo do projeto é facilitar o visualização das movimentações do estoque de bares e restaurnates. Além de, fornecer aos donos notificações e análises .
 
 ## Alunos integrantes da equipe
 
@@ -17,6 +17,7 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 * Rommel Vieira Carneiro
 * Ilo Amy Saldanha Rivero
 * João Carlos Oliveira Caetano
+* Carlos Augusto Paiva da Silva Martins
 
 ## Instruções de utilização
 
