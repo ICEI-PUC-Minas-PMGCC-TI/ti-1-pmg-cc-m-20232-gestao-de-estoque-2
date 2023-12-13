@@ -5,10 +5,8 @@ O objetivo do projeto é facilitar o controle de estoque de bares e restaurante,
 
 ## Alunos integrantes da equipe
 
-* Luiz Arthur Campos Almeida
 * Gabriel Rodrigues Pereira da Silva
 * Marina Cabalzar
-* Samuel Scarabelli Amarante
 * Vitor Alves
 * Paulo Henrique Meireles
 
