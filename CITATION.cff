@@ -1,35 +1,42 @@
 <<<<<<< HEAD
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: Gestão de Estoque
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: Meireles de Araujo
+    given-names: Paulo Henrique
+  - family-names: Alves Sousa
+    given-names: Vitor
+  - family-names: Ferreira Sansão Cabalzar
+    given-names: Marina
+  - family-names: Rodrigues Pereira da Silva
+    given-names: Gabriel
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Amy Saldanha Rivero
+    given-names: Ilo
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Carlos Oliveira Caetano
+    given-names: João
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel
 keywords:
-  - 
-  - 
-repository-code: 
+  - Comércio
+  - Estoque
+  - Gestão
+  - Produtos
+  - Empresas
+  - Alimentos
+  - Bebidas
+  - Insumos
+  - Ingredientes
+repository-code: https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20232-gestao-de-estoque-2
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2022-07-14
+date-released: 2023-12-13
 =======
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
